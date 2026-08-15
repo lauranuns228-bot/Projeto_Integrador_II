@@ -103,12 +103,11 @@ O sistema não terá como objetivo reproduzir ou disponibilizar integralmente re
 Quando uma receita encontrada estiver disponível em outra plataforma, o sistema deverá priorizar a apresentação da fonte original e seu respectivo link, permitindo que o usuário acesse o conteúdo diretamente.
 
 
-🚧 Status do projeto
+Status do projeto
 
 Em fase de planejamento e levantamento de requisitos.
 
 As funcionalidades e tecnologias apresentadas neste documento representam a proposta inicial do projeto e poderão ser refinadas durante as próximas etapas de desenvolvimento.
-
-👩‍💻 Projeto Integrador
+ Projeto Integrador
 
 Projeto desenvolvido para a disciplina de Projeto Integrador, com finalidade acadêmica.
